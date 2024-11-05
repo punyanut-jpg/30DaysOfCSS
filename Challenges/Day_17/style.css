@@ -1,5 +1,5 @@
 body {
-  background: lightpink;
+  background: lightblue;
 }
 
 input {
@@ -31,7 +31,7 @@ input {
 }
 
 .btn {
-  background: lightcoral;
+  background: black;
   font-size: 10px;
 
   display: grid;
